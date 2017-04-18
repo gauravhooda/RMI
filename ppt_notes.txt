@@ -1,0 +1,2 @@
+Java RMI is a mechanism that allows one to invoke a method on an object tha exists in another address space i.e. on another JVM[Java Virtual  Machine].
+It is an object oriented RPC[Remote Procedure Mechanism] which uses IIOP[Internet Inter-ORB Protocol] to communicate through server.
